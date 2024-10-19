@@ -1,11 +1,11 @@
-<h1>Hi There, I'm Senthilnathan S <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
+<h1>Hi There, I'm Senthilnathan S 👋</h1>
 
 
 <hr>
 
-<h3>👨‍💻 About Me :</h3>
+<h3>👨🏼‍💻 About Me :</h3>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Full Stack Developer from India
+- 💻 Full Stack Developer from India
 - 🎓 B.E. Computer Science student specializing in AI and ML at Sathyabama Institute of Science and Technology
 - 🚀 Experienced in product development with a diverse tech stack
 - 🌱 Currently expanding my skills in AI/ML and blockchain technologies
